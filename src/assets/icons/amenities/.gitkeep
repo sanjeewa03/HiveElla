@@ -1,0 +1,24 @@
+# Amenity Icons
+
+Place amenity/facility icons here:
+
+## Suggested Icons (SVG preferred)
+
+- `wifi.svg` - WiFi icon
+- `pool.svg` - Swimming pool icon
+- `spa.svg` - Spa icon
+- `gym.svg` - Fitness center icon
+- `restaurant.svg` - Restaurant icon
+- `parking.svg` - Parking icon
+- `ac.svg` - Air conditioning icon
+- `laundry.svg` - Laundry service icon
+- `concierge.svg` - Concierge service icon
+- `bar.svg` - Bar icon
+- `conference.svg` - Conference room icon
+- `garden.svg` - Garden icon
+
+## Size Guidelines
+
+- SVG format preferred
+- 32x32px minimum if using raster
+- Simple, clean design

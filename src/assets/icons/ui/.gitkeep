@@ -1,0 +1,25 @@
+# UI Icons
+
+Place user interface icons here:
+
+## Required Icons (SVG preferred)
+
+- `menu.svg` - Hamburger menu icon
+- `close.svg` - Close/X icon
+- `arrow-down.svg` - Dropdown arrow
+- `arrow-up.svg` - Up arrow
+- `arrow-left.svg` - Left arrow
+- `arrow-right.svg` - Right arrow
+- `search.svg` - Search icon
+- `calendar.svg` - Calendar icon
+- `location.svg` - Location/map pin icon
+- `phone.svg` - Phone icon
+- `email.svg` - Email icon
+- `star.svg` - Star rating icon
+- `check.svg` - Checkmark icon
+
+## Size Guidelines
+
+- SVG format preferred
+- 24x24px minimum if using raster
+- Consistent stroke width and style

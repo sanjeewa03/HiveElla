@@ -1,0 +1,19 @@
+# Social Media Icons
+
+Place social media icons here:
+
+## Required Icons (SVG preferred)
+
+- `facebook.svg` - Facebook icon
+- `instagram.svg` - Instagram icon
+- `twitter.svg` - Twitter/X icon
+- `linkedin.svg` - LinkedIn icon
+- `youtube.svg` - YouTube icon
+- `tripadvisor.svg` - TripAdvisor icon
+- `whatsapp.svg` - WhatsApp icon
+
+## Size Guidelines
+
+- SVG format preferred (scalable)
+- If using PNG: 48x48px minimum
+- Consistent style across all icons
